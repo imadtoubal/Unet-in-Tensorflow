@@ -1,0 +1,6 @@
+tensorflow
+keras
+scipy
+rqdm
+scikit-image
+pathlib
